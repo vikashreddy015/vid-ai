@@ -1,0 +1,6 @@
+version: '3'
+tasks:
+  default:
+    run:
+       cmd:
+             - python app.py
